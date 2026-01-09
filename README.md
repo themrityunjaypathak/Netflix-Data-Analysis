@@ -157,9 +157,9 @@ git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
 Cleaned and analyzed a dataset of 8,000+ Netflix Movies and TV Shows.
 - More than 60% of the content on Netflix is rated for mature audiences.
     - Suggests that Netflix targets adult viewers to boost engagement and retention.
-- More than 25% of the Movies and TV Shows were released on 1st day of the month.
+- More than 25% of the Movies and TV Shows were released on the 1st day of the month.
     - Shows a consistent release schedule, likely aligned with subscription renewal cycles.
-- More than 40% of the content on Netflix is exclusive to United States.
+- More than 40% of the content on Netflix is exclusive to the United States.
     - Shows a strong focus on U.S. market and content availability by location.
 - More than 20% of the content on Netflix falls under the "Drama" genre.
     - Confirms that "Drama" is a key part of Netflix's content library.

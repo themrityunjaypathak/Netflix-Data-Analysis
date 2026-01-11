@@ -56,7 +56,7 @@ pip install seaborn
 ## Getting Started
 - Clone this repository to your local machine by using the following command :
 ```bash
-git clone https://github.com/TheMrityunjayPathak/Netflix-Data-Analysis.git
+git clone https://github.com/themrityunjaypathak/Netflix-Data-Analysis.git
 ```
 
 <hr>
